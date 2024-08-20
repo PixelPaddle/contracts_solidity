@@ -1,0 +1,18 @@
+module.exports = {
+  "ethereum": {
+    mnemonic: "", // could be either private key or mnemonic
+    rpc: "",
+  },
+  polygon: {
+    mnemonic: "", // could be either private key or mnemonic
+    rpc: "",
+  },
+   skaleMainnet: {
+      mnemonic: "", // could be either private key or mnemonic
+      rpc: "",
+    },
+       skaleTestnet: {
+          mnemonic: "", // could be either private key or mnemonic
+          rpc: "",
+        },
+};
